@@ -26,3 +26,6 @@ Tools and skills used : Pytorch, Deep Convoutional Generative Adversarial Networ
 Built and deployed a neural netowkr which predicts the sentiment of a user-provided movie review. In addition, a simple web-app has been created that uses the deployed model.
 
 Tools and skills used : Pytorch, AWS Sagemaker,Lambda function. 
+
+Datasets used: IMDB datasets- http://ai.stanford.edu/~amaas/data/sentiment/
+Refer https://github.com/udacity/sagemaker-deployment.git
