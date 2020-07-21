@@ -25,4 +25,4 @@ Tools and skills used : Pytorch, Deep Convoutional Generative Adversarial Networ
 
 Built and deployed a neural netowkr which predicts the sentiment of a user-provided movie review. In addition, a simple web-app has been created that uses the deployed model.
 
-Tools and skills used : Pytorch, AWS Sagemaker.
+Tools and skills used : Pytorch, AWS Sagemaker,Lambda function. 
