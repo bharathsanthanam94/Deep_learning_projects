@@ -4,7 +4,7 @@ This repository contains projects completed for Udacity's Deep learning Nanodegr
 
 **1. Predicting Bike sharing Data**
 
-In this project, Deep learning is implemented from ground-up to predict daily bike rental ridership. The code is from UCI Machine learning repository.
+In this project, Deep learning is implemented from ground-up to predict daily bike rental ridership. The dataset is from UCI Machine learning repository.
 https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
 
 **2. Convolutional Neural Netwwork (CNN) project**
